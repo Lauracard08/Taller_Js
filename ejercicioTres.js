@@ -1,0 +1,1 @@
+document .querySelectorquerySelector("h1").innerHTML = "Hola mundo";
